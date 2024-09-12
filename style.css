@@ -1,0 +1,39 @@
+* {
+    background-color: #232946;
+    font-family: "Bitter", serif;
+    color: #b8c1ec;
+    line-height: 1.8;
+}
+
+strong, small {
+    color: #eebbc3;
+}
+
+h1, h2, h3 {
+    color: #fffffe;
+    font-family: "Raleway", sans-serif;
+}
+
+h1 {
+    font-size: 25px;
+}
+h2 {
+    font-size: 21px;
+}
+h3 {
+    font-size: 18px;
+}
+
+img {
+    border-radius: 15px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+body {
+    padding: 2rem;
+}
+

@@ -1,0 +1,71 @@
+
+* {
+    font-family: "Raleway", sans-serif;
+}
+
+body {
+    background-color: #abd1c6;
+}
+
+h1, h2 {
+    margin: 20px 0px 30px 0px;
+    color: #001e1d;
+    font-weight: bolder;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+/* BARRA DE NAVEGACIÓN */
+.navbar {
+    padding: 1rem;
+}
+  
+.navbar-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+    width: 100%;
+}
+
+.navbar-toggler {
+    margin-bottom: 10px;
+}
+
+.nav-item-color {
+    font-weight: bolder;
+}
+
+.card-color {
+    background-color:#004643 ;
+    color: #abd1c6;
+}
+
+
+/* SECCIÓN HOBBIES */
+.list-group-item-color {
+    
+    background-color: #abd1c6 ;
+    color: #004643;
+}
+
+span {
+    font-weight: 700;
+}
+
+/* SECCIÓN MÚSICA */
+
+#musica .col {
+    display: flex;
+    justify-content: center;
+   }
+
+.card {
+    margin-bottom: 25px;
+}
+
+
+
+
